@@ -111,7 +111,7 @@ body {
     background-color: #dad9d7;
 }
 
-button-home {
+/* #button-home {
     position: fixed;
     top: 0;
     left: 0;
@@ -125,7 +125,7 @@ button-home {
     font-family: 'Rowdies', cursive;
     transition: all 0.3s ease;
 }
-button-home:hover {
+#button-home:hover {
     color: white;
     border-color: white;
-}
+} */
